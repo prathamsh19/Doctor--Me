@@ -1,5 +1,7 @@
 # Doctor--Me
 It is webservice through which user can predict his/her three types of diseases i.e. Heart disease, Diabetes and Breast Cancer.
+It is build using MERN stack.
+For prediction Python is used with Django framework.
 # How to start
 1. Copy everything to a folder and open Vscode.
 2. Navigate to the folder and type npm install.
